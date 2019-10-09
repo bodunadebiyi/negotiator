@@ -1,4 +1,4 @@
-# job-stuff
+# Negotiator App
 
 ## Project setup
 ```
